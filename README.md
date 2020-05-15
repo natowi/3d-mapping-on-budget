@@ -24,7 +24,7 @@ Many popular and affordable RGB-D cameras are no longer available.
 Real-Time Appearance-Based Mapping
 http://wiki.ros.org/rtabmap
 
-Binaries available for Linux, Mac, Windows
+Binaries available for Linux, Mac, Windows, Raspberry Pi, Docker
 
 https://github.com/introlab/rtabmap/releases
 
