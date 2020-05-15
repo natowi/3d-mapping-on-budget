@@ -5,6 +5,8 @@ Software and hardware for indoor and outdoor 3D-mapping
 
 At the moment there are no ready-to-use 3d mapping solutions available for reasonable prices.
 
+So far I did not find any handheld/portable 3D mapping devices that would be suitable for indoor and outdoor mapping.
+
 If you are lucky and have ~8000$ you can buy a used terrestrial laser scanner that can store the scan without an additional computer.
 
 New terrestrial laser scanners start at ~12000$
