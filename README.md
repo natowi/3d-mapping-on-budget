@@ -61,10 +61,20 @@ Low budget LIDAR scanners are 2D scanners. 3D scanners are also available much c
 
 https://github.com/introlab/rtabmap/issues/390
 
-| Type   | Model            | Driver                                   | Price  | Available |
+| Type   | Model            | Detail                                   | Price  | Available |
 | ------ | ---------------- | ---------------------------------------- | ------ | --------- |
-|   2D   | rplidar          |                                          |        |           |
-|        | velodyne         |                                          |        |           |
+|   2D   | Aikeek           | Aikeek HLS-LFCD2                         |   45   |  YES      |
+|   2D   | YDLIDAR X4       |                                          |   90   |  YES      |
+|   2D   | YDLIDAR X2L      |                                          |   90   |  YES      |
+|   2D   | RPLIDAR A1       | Lidar A1M8                               |   100  |  YES      |
+|   2D   | YDLIDAR TX8 TOF  |                                          |   135  |  YES      |
+|   2D   | RPLIDAR          | Lidar A1M8                               |   130  |  YES      |
+|   2D   | YDLIDAR G2       |                                          |   200  |  YES      |
+|   2D   | NaviPack         |                                          |   300  |  YES      |
+|   2D   | RPLIDAR A1       | Lidar A2M7                               |   320  |  YES      |
+|   2D   | YDLIDAR TOF T15  |                                          |   1500 |  YES      |
+
+Some of the low cost models don´t come with a usb connector
 
 
 
