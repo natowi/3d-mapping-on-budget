@@ -47,13 +47,25 @@ RTABmap supports the following models. As you can see, most of them are no longe
 | Stereo | Tara Camera      | Tara Stereo USB Camera                   | 150    | YES       |
 | RGB    | RGB camera       | USB Camera                               |        |           |
 
+# Stereo cameras
 
+Many models available. 
+
+# RGB-D cameras
+
+Only a few (older) models available
 
 # LIDAR
 
 Low budget LIDAR scanners are 2D scanners. 3D scanners are also available much cheaper than some years ago, but all available scanners are not ready to use for production mapping and require some setup, API calls...
 
-# Stereo cameras
+https://github.com/introlab/rtabmap/issues/390
 
-# RGB-D cameras
+| Type   | Model            | Driver                                   | Price  | Available |
+| ------ | ---------------- | ---------------------------------------- | ------ | --------- |
+|   2D   | rplidar          |                                          |        |           |
+|        | velodyne         |                                          |        |           |
+
+
+
 
